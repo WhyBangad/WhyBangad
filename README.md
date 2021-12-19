@@ -16,4 +16,4 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" height=25/>&nbsp;
     </a>
 </p>
-<p align="center"> I'm a software engineering and cloud enthusiast with experience in C++, python and Java. </p>
+<p align="center"> I'm a software engineering and cloud enthusiast with experience in C/C++, python and Java. </p>
